@@ -7,4 +7,4 @@ def solution(a, b):
         for i in range(b, a + 1):
             answer += i
 
-    return answer
+    return answera
