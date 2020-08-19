@@ -1,6 +1,6 @@
-# playdata_algorithm
+# Programmers
 
-### 플레이데이터 알고리즘 연습문제
+### 프로그래머스 알고리즘 연습문제
 
 #### < Level 1 >
 
