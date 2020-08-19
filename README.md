@@ -34,6 +34,10 @@
 * [28. 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 * [29. 시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
 * [30. 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+* [31. 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+* [32. 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+* [33. 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+* [34. 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
 
 #### < Level 2 >
 
