@@ -35,3 +35,15 @@
 * [29. 시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
 * [30. 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 
+#### < Level 2 >
+
+* [01. 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
+* [02. 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
+* [03. 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
+* [04. 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+* [05. 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)
+* [06. 최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
+* [07. 최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
+* [08. 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)
+* [09. 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
+* [10. JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)
